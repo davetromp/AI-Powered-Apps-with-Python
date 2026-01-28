@@ -1,5 +1,5 @@
-# AI-Powered-Apps-with-Python
-A collection of applications written in python that use AI to do useful things
+# Generative AI-Powered Apps with Python
+A collection of applications written in python that use Generative AI to do useful things. Hopefully.
 
 I have developed these apps as a prove of concept as part of the following IBM course at Coursera: https://www.coursera.org/learn/building-gen-ai-powered-applications/
 
