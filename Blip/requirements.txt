@@ -4,6 +4,7 @@ annotated-types==0.7.0
 anyio==4.12.1
 asttokens==3.0.1
 audioop-lts==0.2.2
+beautifulsoup4==4.14.3
 brotli==1.2.0
 certifi==2026.1.4
 charset-normalizer==3.4.4
@@ -86,6 +87,7 @@ semantic-version==2.10.0
 setuptools==80.10.2
 shellingham==1.5.4
 six==1.17.0
+soupsieve==2.8.3
 stack-data==0.6.3
 starlette==0.50.0
 sympy==1.14.0
