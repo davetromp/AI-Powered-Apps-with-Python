@@ -1,0 +1,2 @@
+house.jpg: a view of a city with many houses
+bird.jpg: a bird is flying over a tree branch
