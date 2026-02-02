@@ -14,3 +14,16 @@ I have developed these apps as a prove of concept as part of the following IBM c
 ![Image Captioning With Blip](Blip/screenshots/ImageCaptioningWithBlip.png)
 
 ![Image Clasisification](Blip/screenshots/ImageClasisification.png)
+
+## Module 2: My Own ChatGPT-Like Website
+This project involves:
+
+* Creating a chatbot using an open LLM from Huggingface
+* Have a CLI chatbot
+* Have a Web chatbot
+
+### Screenshots
+
+![CLI Chatbot](Chatbot/screenshots/Screenshot-chatbot-terminal.png)
+
+![Web Chatbot](Chatbot/screenshots/Screenshot-chatbot.png)
