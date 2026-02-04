@@ -27,3 +27,15 @@ This project involves:
 ![CLI Chatbot](Chatbot/screenshots/Screenshot-chatbot-terminal.png)
 
 ![Web Chatbot](Chatbot/screenshots/Screenshot-chatbot.png)
+
+
+## Module 3: Create a Voice Assistant
+This project involves:
+
+* Creating a chatbot using an ollama and llam3.2:1b
+* Have a STT ability using OpenAi's Whisper
+* Have a TTS ability using 3 different TTS engines
+
+### Screenshot
+
+![Voice Chatbot](VoiceAssistant/screenshots/Screenshot-VoiceChat.png)
