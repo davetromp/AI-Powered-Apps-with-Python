@@ -5,18 +5,23 @@ A Python application that transcribes meeting audio recordings and generates con
 ## Features
 
 - ✅ **Audio Transcription**: Uses OpenAI's Whisper model for accurate speech-to-text
-- ✅ **AI-Powered Summary**: Generates meeting summaries using Ollama (gemma3:latest)
+- ✅ **AI-Powered Summary**: Generates meeting summaries using Ollama (glm-4.7:cloud)
 - ✅ **Configurable Summary Length**: Choose between brief, detailed, or very brief summaries
 - ✅ **Real-time Progress**: Track transcription and summarization progress
 - ✅ **Download Outputs**: Save transcripts and summaries as text files
 - ✅ **Multiple Audio Formats**: Supports WAV, MP3, M4A, FLAC, OGG, and WMA
 - ✅ **Gradio Interface**: Clean, user-friendly web interface
 
+## Screenshot
+![Meeting Assistant](Screenshot.png)
+This is a transcription and summary of the following Dutch Podcast: https://youtu.be/bEL9WpzBV6g?si=yXlX4hOjihq_NAGB
+Summary was done with Ollama Cloud. If you have enough local resources or your transcription is very short, then you can run a local model (like glm4.7-flash for instance).
+
 ## Prerequisites
 
 - Python 3.8 or higher
 - Ollama installed and running
-- gemma3:latest model downloaded in Ollama
+- glm-4.7:cloud model downloaded in Ollama
 
 ## Installation
 
@@ -41,14 +46,14 @@ pip install -r requirements.txt
 
 ### 4. Verify Ollama is running
 
-Make sure Ollama is installed and the gemma3:latest model is available:
+Make sure Ollama is installed and the glm-4.7:cloud model is available:
 
 ```bash
 # Check if Ollama is running
 ollama list
 
-# If gemma3:latest is not installed, download it:
-ollama pull gemma3:latest
+# If glm-4.7:cloud is not installed, download it:
+ollama pull glm-4.7:cloud
 ```
 
 ## Usage
@@ -96,7 +101,7 @@ MeetingAssistant/
 ### Ollama connection issues
 
 - Ensure Ollama is running: `ollama serve`
-- Check that the gemma3:latest model is installed: `ollama list`
+- Check that the glm-4.7:cloud model is installed: `ollama list`
 - Verify the API is accessible at `http://localhost:11434`
 
 ### Whisper model issues

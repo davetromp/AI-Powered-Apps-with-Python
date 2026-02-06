@@ -5,6 +5,6 @@ Build this using the following stack:
 * python
 * gradio for user interface
 * whisper for transcibing of the audio to text
-* ollama running model gemma3:latest for summarization. Ollama is already installed, running and has the model downloaded
+* ollama running model glm-4.7:cloud for summarization. Ollama is already installed, running and has the model downloaded
 
 Please create this application like you are a senior python AI developer.

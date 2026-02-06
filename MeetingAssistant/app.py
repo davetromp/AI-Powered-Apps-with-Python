@@ -157,7 +157,7 @@ def create_interface():
         gr.Markdown("---")
         gr.Markdown("### Features")
         gr.Markdown("- ✅ Transcribes audio using Whisper")
-        gr.Markdown("- ✅ Summarizes meetings using Ollama (gemma3:latest)")
+        gr.Markdown("- ✅ Summarizes meetings using Ollama (glm-4.7:cloud)")
         gr.Markdown("- ✅ Configurable summary length")
         gr.Markdown("- ✅ Real-time progress updates")
         gr.Markdown("- ✅ Download transcripts and summaries")

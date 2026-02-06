@@ -5,7 +5,7 @@ class Config:
     WHISPER_DEVICE = "cpu"
     
     OLLAMA_BASE_URL = "http://localhost:11434"
-    OLLAMA_MODEL = "gemma3:latest"
+    OLLAMA_MODEL = "glm-4.7:cloud"
     OLLAMA_TIMEOUT = 300
     
     MAX_AUDIO_SIZE_MB = 100
