@@ -32,7 +32,7 @@ This project involves:
 ## Module 3: Create a Voice Assistant
 This project involves:
 
-* Creating a chatbot using a ollama and llama3.2:1b
+* Creating a chatbot using ollama and llama3.2:1b
 * Have a STT ability using OpenAi's Whisper
 * Have a TTS ability using 3 different TTS engines
 
