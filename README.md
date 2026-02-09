@@ -39,3 +39,16 @@ This project involves:
 ### Screenshot
 
 ![Voice Chatbot](VoiceAssistant/screenshots/Screenshot-VoiceChat.png)
+
+
+
+## Module 4: Create a Personal Assistant -- RAG Chatbot
+This project involves:
+* creating a chatbot
+* let the use upload a pdf
+* ask questions about the pdf
+
+### Screenshot
+
+![Voice Chatbot](PersonalAssistant/Screenshot-PA-RAG.png)
+
